@@ -36,15 +36,15 @@ echo " "
 echo -e "$grn                updating the infect  please wait$rset"
 sleep 2.0
 cd $HOME
-rm -rf infect
-git clone https://github.com/noob-hackers/infect
+rm -rf Infect
+git clone https://github.com/noob-hackers/Infect
 clear
 echo " "
 echo -e "$grn               infect has been updated check it now...$rset"
 sleep 3.0
 echo " "
 cd $HOME
-cd infect
+cd Infect
 bash infect.sh
 clear
 sleep 1.0
