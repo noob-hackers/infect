@@ -32,12 +32,12 @@ X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                         noobhackers
+                         HackerPriyank
 '|lolcat
 echo " " 
 
-echo -e "$red                      ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                 ⫸$ylo youtube.com/noobhackers$red ⫷$rset"
+echo -e "$red                      ▶ Coded by$grn HP17RO$red ◀$rset"
+echo -e "$red                 ⫸$ylo youtube.com/HackerPriyank$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                   [Infect them with fun]$rset"
