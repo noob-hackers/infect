@@ -84,7 +84,7 @@ __Exit__ :
 ## ?? ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/noobhackers
+https://rebrand.ly/noobhackers
 
 ### Chekout our webite:
 https://www.noob-hackers.com
