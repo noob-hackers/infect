@@ -77,6 +77,7 @@ cd $HOME/lnfect/
 bash infect.sh
 else
 bash sysup.sh
+echo
 echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$rset"
