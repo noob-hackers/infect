@@ -66,14 +66,14 @@ echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
 read hulke
-cd $HOME/lnfect/lol
+cd $HOME/Infect/lol
 echo " "
 echo -e "$ylo     To terminate the process click$red 't'$ylo or to continue click on$grn ENTER$rset" 
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                    Are you sure? Press$grn ENTER$red to exit$rset"
 read hulkee
-cd $HOME/lnfect/
+cd $HOME/Infect/
 bash infect.sh
 else
 bash sysup.sh
@@ -86,7 +86,7 @@ echo -e "$cyan            click$grn ENTER$cyan to go back into infect  menu$rset
 echo " "
 read punch
 fi
-cd $HOME/lnfect/
+cd $HOME/Infect/
 bash infect.sh ;;
 2)echo " "
 echo " "
@@ -96,14 +96,14 @@ echo " "
 echo -e "$grn                  Press$ylo ENTER$grn to continue$rset"
 echo " "
 read nitro
-cd $HOME/lnfect/lol
+cd $HOME/Infect/lol
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                   Are you sure? Press$grn ENTER$red to exit$rset"
 read nitroo
-cd $HOME/lnfect
+cd $HOME/Infect
 bash infect.sh
 else
 bash save.sh
@@ -115,7 +115,7 @@ echo -e "$cyan             click$grn ENTER$cyan to go back into infect  menu$rse
 echo " "
 read punch
 fi
-cd $HOME/lnfect
+cd $HOME/Infect
 bash infect.sh ;;
 3)echo " "
 echo " "
@@ -125,14 +125,14 @@ echo " "
 echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
 echo " "
 read mon
-cd $HOME/lnfect/lol
+cd $HOME/Infect/lol
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                 Are you sure? Press$grn ENTER$red to exit$rset"
 read monn
-cd $HOME/lnfect
+cd $HOME/Infect
 bash infect.sh
 else
 bash update.sh
@@ -144,7 +144,7 @@ echo -e "$cyan        click$grn ENTER$cyan to go back into infect  menu$rset"
 echo " "
 read punch
 fi
-cd $HOME/lnfect
+cd $HOME/Infect
 bash infect.sh ;;
 4)
 sleep 2.0
