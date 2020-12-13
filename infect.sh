@@ -65,15 +65,13 @@ echo -e "$red               You are going to$grn Infect$red Now$rset"
 echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
-read hulke
 cd $HOME/Infect/lol
 echo " "
 echo -e "$ylo     To terminate the process click$red 't'$ylo or to continue click on$grn ENTER$rset" 
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                    Are you sure? Press$grn ENTER$red to exit$rset"
-read hulkee
-cd $HOME/Infect/
+cd $HOME/Infect
 bash infect.sh
 else
 bash sysup.sh
@@ -84,7 +82,6 @@ echo -e "$grn ＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜�
 echo " "
 echo -e "$cyan            click$grn ENTER$cyan to go back into infect  menu$rset"
 echo " "
-read punch
 fi
 cd $HOME/Infect/
 bash infect.sh ;;
@@ -95,14 +92,12 @@ echo -e "$red                You are going to$red Save victim$rset "
 echo " "
 echo -e "$grn                  Press$ylo ENTER$grn to continue$rset"
 echo " "
-read nitro
 cd $HOME/Infect/lol
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                   Are you sure? Press$grn ENTER$red to exit$rset"
-read nitroo
 cd $HOME/Infect
 bash infect.sh
 else
@@ -113,7 +108,6 @@ echo -e "$grn ＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$r
 echo " "
 echo -e "$cyan             click$grn ENTER$cyan to go back into infect  menu$rset"
 echo " "
-read punch
 fi
 cd $HOME/Infect
 bash infect.sh ;;
@@ -124,14 +118,12 @@ echo -e "$red             You are going to$grn Update the$red Script$rset "
 echo " "
 echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
 echo " "
-read mon
 cd $HOME/Infect/lol
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                 Are you sure? Press$grn ENTER$red to exit$rset"
-read monn
 cd $HOME/Infect
 bash infect.sh
 else
