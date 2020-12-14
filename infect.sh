@@ -65,13 +65,13 @@ echo -e "$red               You are going to$grn Infect$red Now$rset"
 echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
-cd $HOME/Infect/lol
+cd $HOME/infect/lol
 echo " "
 echo -e "$ylo     To terminate the process click$red 't'$ylo or to continue click on$grn ENTER$rset" 
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                    Are you sure? Press$grn ENTER$red to exit$rset"
-cd $HOME/Infect
+cd $HOME/infect
 bash infect.sh
 else
 bash sysup.sh
@@ -83,7 +83,7 @@ echo " "
 echo -e "$cyan            click$grn ENTER$cyan to go back into infect  menu$rset"
 echo " "
 fi
-cd $HOME/Infect/
+cd $HOME/infect/
 bash infect.sh ;;
 2)echo " "
 echo " "
@@ -92,13 +92,13 @@ echo -e "$red                You are going to$red Save victim$rset "
 echo " "
 echo -e "$grn                  Press$ylo ENTER$grn to continue$rset"
 echo " "
-cd $HOME/Infect/lol
+cd $HOME/infect/lol
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                   Are you sure? Press$grn ENTER$red to exit$rset"
-cd $HOME/Infect
+cd $HOME/infect
 bash infect.sh
 else
 bash save.sh
@@ -109,7 +109,7 @@ echo " "
 echo -e "$cyan             click$grn ENTER$cyan to go back into infect  menu$rset"
 echo " "
 fi
-cd $HOME/Infect
+cd $HOME/infect
 bash infect.sh ;;
 3)echo " "
 echo " "
@@ -118,13 +118,13 @@ echo -e "$red             You are going to$grn Update the$red Script$rset "
 echo " "
 echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
 echo " "
-cd $HOME/Infect/lol
+cd $HOME/infect/lol
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                 Are you sure? Press$grn ENTER$red to exit$rset"
-cd $HOME/Infect
+cd $HOME/infect
 bash infect.sh
 else
 bash update.sh
@@ -136,7 +136,7 @@ echo -e "$cyan        click$grn ENTER$cyan to go back into infect  menu$rset"
 echo " "
 read punch
 fi
-cd $HOME/Infect
+cd $HOME/infect
 bash infect.sh ;;
 4)
 sleep 2.0
