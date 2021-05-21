@@ -79,7 +79,7 @@ menu(){
 echo -e "$grn             ＞＞＞＞>>>＞$ylo [Options]$grn ＜<<<＜＜＜＜$rset"
 echo " "
 echo " "
-echo -e "$red                        ➡$cyan [\e[92m1️\e[96m] Infect now"
+echo -e "$red                        ➡$cyan [\e[92m1\e[96m] Infect now"
 echo -e "$red                        ➡$cyan [\e[92m2\e[96m] Save now"
 echo -e "$red                        ➡$cyan [\e[92m3\e[96m] About"
 echo -e "$red                        ➡$cyan [\e[92m4\e[96m] Update script "
