@@ -252,7 +252,7 @@ cd infect
 bash infect.sh
 }
 vid(){
-FILE=/home/runner/brunko/infect/noob.noob
+FILE=$HOME/infect/noob.noob
 if [ -f "$FILE" ]; then
 pop
 else
@@ -286,7 +286,7 @@ baner1
 menu
 elif [ "$p" = "z" ];
 then
-cd /home/runner/brunko/infect
+cd $HOM/infect
 rm noob.noob
 banner
 menu
