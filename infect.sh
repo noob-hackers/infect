@@ -104,7 +104,7 @@ then
 about
 elif [ $optnz = "4" ];
 then
-subs
+upd
 elif [ $optnz = "5" ];
 then
 am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel > /dev/null 2>&1
