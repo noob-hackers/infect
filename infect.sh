@@ -219,11 +219,11 @@ banner
 menu
 }
 upd(){
-if [ -d "$HOME/infect"];
+if [ -d "$HOME/infect" ];
 then
 cd $HOME
 rm -rf infect
-elif [ -d "$HOME/Infect"];
+elif [ -d "$HOME/Infect" ];
 then
 cd $HOME
 rm -rf Infect
@@ -245,7 +245,7 @@ printf "\e[96m]\e[0m"
 echo
 echo
 echo
-printf "\e[96m                    UPDATE SUCCESSFULL (LATEST VERSION)..!\e[0m"
+printf "\e[96m           UPDATE SUCCESSFULL (LATEST VERSION)..!\e[0m"
 sleep 2.0
 cd $HOME
 cd infect
