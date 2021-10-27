@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://bit.ly/3bgtjYk"><img title="Made in South Africa" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://bit.ly/3bgtjYk"><img title="Made in South Africa" src="https://img.shields.io/badge/MADE%20IN-RSA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://bit.ly/3bgtjYk"><img title="Made in South Africa" src="https://img.shields.io/badge/Tool-Infect-green.svg"></a>
@@ -7,10 +7,11 @@
 <a href="https://bit.ly/3bgtjYk"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3bgtjYk"><img title="infect" src="https://user-images.githubusercontent.com/49580304/96560822-a3963000-1273-11eb-8fc0-4ba87336cccf.jpg"></a>
+
+
 </p>
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/lloyd4565-rightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
