@@ -35,7 +35,7 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                         public nuisance
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
+echo -e "$red                       ▶Coded by$grn LLOYD$red◀$rset"
 echo -e "$red                      ⫸$ylo  nuisance Hacker$red ⫷$rset"
 echo 
 # Functions
@@ -67,7 +67,7 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                         Public Nuisance
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
+echo -e "$red                       ▶Coded by$grn LLOYD$red◀$rset"
 echo -e "$red                      ⫸$ylo  public nuisance$red ⫷$rset"
 echo 
 # Functions
