@@ -64,7 +64,7 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        Public Nuisance
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
