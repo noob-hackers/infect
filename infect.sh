@@ -1,5 +1,5 @@
-# A tool by nitro from www.noob-hackers.com
-# Be a unique person not copy cat
+# A TOOL CREATED BY LLOYD FROM THE CODING FAMILY
+# Be a unique person not copy cay
 # Colours
 #-----------------
 red="\e[91m"
