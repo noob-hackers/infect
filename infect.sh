@@ -68,7 +68,7 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
-echo -e "$red                      ⫸$ylo  Noob Hackers$red ⫷$rset"
+echo -e "$red                      ⫸$ylo  public nuisance$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                    [Infect them with fun]$rset"
