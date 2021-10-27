@@ -206,7 +206,7 @@ echo -e '\e[91m
          ─▐─█────█─▌─
          ────▌──▐────
 '
-echo -e "\e[93m                  CALL ME \e[92mNITRO" | pv -qL 10
+echo -e "\e[93m                  CALL ME \e[92mLLOYD" | pv -qL 10
 echo -e "\e[93m             IAM FROM \e[92mPUBLIC NUISANCE" | pv -qL 10
 echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
@@ -237,7 +237,7 @@ echo -e "         \e[96mUPDATE IS GOING ON, PLEASE WAIT FOR A WHILE...!\e[0m"
 echo
 printf "                     \e[96m["
 # While process is running...
-while git clone https://github.com/noob-hackers/infect 2> /dev/null; do 
+while git clone https://github.com/lloyd4565/infect 2> /dev/null; do 
     printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
