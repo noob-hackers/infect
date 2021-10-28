@@ -37,7 +37,9 @@
 Infect is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device.
 Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Use.
 
-<p align="center">
+
+
+
 ![IMG-20211024-WA0027](https://user-images.githubusercontent.com/88751177/139162604-81e48605-4e24-4440-9ffe-bce842be7a34.jpg)
 
 
