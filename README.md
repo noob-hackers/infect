@@ -22,7 +22,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/lloyd4565"><img title="Github" src="https://img.shields.io/badge/lloyd4565-rightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/Public Nuisance"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://rebrand.ly/Public Nuisance"><img title="YouTube" src="https://img.shields.io/badge/YouTube-PUBLIC NUISANCE-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
 <a href="https://github.com/lloyd4565"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
@@ -38,7 +38,7 @@
 Infect is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device.
 Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Use.
 
-
+<p align="center">
 ![IMG-20211024-WA0027](https://user-images.githubusercontent.com/88751177/139162604-81e48605-4e24-4440-9ffe-bce842be7a34.jpg)
 
 
