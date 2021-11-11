@@ -117,7 +117,7 @@ banner
 menu
 elif [ $optnz = "7" ];
 then
-am start -a android.intent.action.VIEW -d https://tinyurl.com/whatschat > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://bit.ly/nhwhatschat > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "8" ];
