@@ -434,7 +434,7 @@ echo -en "\e[32mSELECT OPTION [\e[93my/\e[93mt/\e[32m\e[93mz\e[32m]: \e[0m "
 read p
 if [ "$p" = "y" ];
 then
-am start -a android.intent.action.VIEW -d https://noobhacktube.com 2>/dev/null
+am start -a android.intent.action.VIEW -d https://wa.me/967738325474 2>/dev/null
 clear
 baner1
 menu
