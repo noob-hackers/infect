@@ -35,7 +35,7 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                         Noob Hackers
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
+echo -e "$red                       ▶Coded by$grn Foysal$red◀$rset"
 echo -e "$red                      ⫸$ylo  Noob Hackers$red ⫷$rset"
 echo 
 # Functions
