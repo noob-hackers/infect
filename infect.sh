@@ -107,7 +107,7 @@ then
 upd
 elif [ $optnz = "5" ];
 then
-am start -a android.intent.action.VIEW -d https://bit.ly/nbhytchannel > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://nbhckrs.github.io/nhyt.html > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "6" ];
